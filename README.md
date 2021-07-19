@@ -1,5 +1,8 @@
 # To Do list: list structure
 
+This exercise is intended to us learn about code review
+
+
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
 ## Built With 
